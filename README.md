@@ -226,5 +226,4 @@ $$\text{Total Score} = S_{\text{budget}} + S_{\text{timeline}} + S_{\text{scope}
 
 * **Candidate:** Pranjal Jain
 * **Application Role:** AI/ML Engineer Intern
-* **Submission Portal:** [https://www.cynbit.in/candidate/cmsnk9t1y000104ldjd4q4bk1](https://www.cynbit.in/candidate/cmsnk9t1y000104ldjd4q4bk1)
-* **License:** MIT License
+
